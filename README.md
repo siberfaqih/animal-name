@@ -1,6 +1,6 @@
 # Animal JSON Github - Node.js
 
-This is an example JSON data app used in JSON Example by LearnWebCode [quickstart_tutorial]https://github.com/LearnWebCode/json-example). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+This is an example JSON data app used in JSON Example by LearnWebCode [json data](https://github.com/LearnWebCode/json-example). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
 ## Setup
 
