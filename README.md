@@ -1,6 +1,6 @@
-# Openweathermap - Node.js
+# Animal JSON Github - Node.js
 
-This is an example weather data app used in the Openweathermap API [quickstart tutorial](https://openweathermap.org/current). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
+This is an example JSON data app used in JSON Example by LearnWebCode  [json data]https://github.com/LearnWebCode/json-example). It uses the [Next.js](https://nextjs.org/) framework with [React](https://reactjs.org/). Check out the tutorial or follow the instructions below to get set up.
 
 ## Setup
 
@@ -11,7 +11,7 @@ This is an example weather data app used in the Openweathermap API [quickstart t
 3. Navigate into the project directory
 
    ```bash
-   $ cd openweathermap-nodejs
+   $ cd animal-name
    ```
 
 4. Install the requirements
@@ -20,15 +20,7 @@ This is an example weather data app used in the Openweathermap API [quickstart t
    $ npm install
    ```
 
-5. Make a copy of the example environment variables file
-
-   ```bash
-   $ cp .env.example .env
-   ```
-
-6. Add your [API key](https://home.openweathermap.org/api_keys) to the newly created `.env` file
-
-7. Run the app
+5. Run the app
 
    ```bash
    $ npm run dev
