@@ -53,7 +53,7 @@ export default function Home() {
               }}
               >
            
-              <button type="submit" className="btn btn-dark">Tampilkan</button>
+              <button type="submit" className="btn btn-dark">Show</button>
            </form>
           </div>
 
@@ -63,7 +63,7 @@ export default function Home() {
               <table className="table">
                 <thead>
                   <tr>
-                    <th>Nama</th>
+                    <th>Name</th>
                     <th>Foods</th>
                     <th>Dislike Foods</th>
                   </tr>
